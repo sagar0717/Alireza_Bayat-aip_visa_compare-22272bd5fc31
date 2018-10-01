@@ -1,0 +1,5 @@
+{
+  "dbProvider": "mongodb",
+  "server": "localhost",
+  "db": "visa"
+}

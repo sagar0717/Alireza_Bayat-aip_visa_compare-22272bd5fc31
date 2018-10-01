@@ -1,0 +1,5 @@
+{
+  "dbProvider": "mongodb",
+  "server": "aipuser:password1@ds251632.mlab.com:51632",
+  "db": "visa"
+}
